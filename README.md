@@ -1,8 +1,8 @@
 # TrakBill
 Billing &amp; Inventory Management Tool  Type: Web application (React.js frontend + Python backend) Purpose: Streamline billing, inventory tracking, reporting, and product ordering in one modern, user-friendly platform.
 Core Modules & Features
-1. Billing & Invoicing
 
+1. Billing & Invoicing
 Create Invoices: Customizable invoice templates with company branding.
 Multi-Currency Support: Automatically convert currency with live exchange rates.
 Recurring Billing: Set up subscriptions or periodic billing cycles.
@@ -47,6 +47,6 @@ User Management & Roles: Admin, Manager, Staff access levels.
 Dark Mode & Mobile Responsive Design.
 Audit Logs: Track all changes for security and accountability.
 Test Coverage:
-Frontend: React Testing Library + Jest for UI/logic tests.
-Backend: PyTest for unit & integration tests.
-API Tests: Postman/Newman or PyTest API test suites.
+ Frontend: React Testing Library + Jest for UI/logic tests.
+ Backend: PyTest for unit & integration tests.
+ API Tests: Postman/Newman or PyTest API test suites.
