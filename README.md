@@ -47,6 +47,6 @@ User Management & Roles: Admin, Manager, Staff access levels.
 Dark Mode & Mobile Responsive Design.
 Audit Logs: Track all changes for security and accountability.
 Test Coverage:
- Frontend: React Testing Library + Jest for UI/logic tests.
- Backend: PyTest for unit & integration tests.
- API Tests: Postman/Newman or PyTest API test suites.
+1. Frontend: React Testing Library + Jest for UI/logic tests.
+2. Backend: PyTest for unit & integration tests.
+3. API Tests: Postman/Newman or PyTest API test suites.
